@@ -1,0 +1,11 @@
+{
+  "name": "napi-async-worker-example",
+  "version": "1.0.0",
+  "description": "A simple hello world program using the napi.h C++ api and async work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Matthew James Briggs",
+  "license": "MIT"
+}
